@@ -1,8 +1,8 @@
 ## 一個間單的分類器實作
 ### 專案包含:
-1. 資料收集
-2. 模型訓練
-3. 實際展示
+1. 資料收集(collectdata)
+2. 模型訓練(train_model)
+3. 實際展示(classifier_demo)
 
 ### 使用到的工具:
 1. Pytorch
